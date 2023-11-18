@@ -18,3 +18,4 @@ Implemente uma função que receba um número inteiro positivo e retorne o somat
 ## Execute o comando "dart run" no terminal para iniciar o projeto
 
 ## Execute o comando "dart test" no terminal para garantir que os Testes para a função está retornando os resultados esperados.
+#### dart --version 3.1.5
