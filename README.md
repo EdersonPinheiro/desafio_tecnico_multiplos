@@ -4,7 +4,7 @@
 https://dart.dev/get-dart
 
 ### Faça um clone do repositorio:
-git clone git@github.com:EdersonPinheiro/desafio_tecnico_multiplos_escribo.git
+git clone https://github.com/EdersonPinheiro/desafio_tecnico_multiplos_escribo.git
 
 ### Localize a pasta:
 cd desafio_tecnico_multiplos_escribo
